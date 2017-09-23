@@ -1,0 +1,18 @@
+{
+  "name": "sass-learn",
+  "version": "0.0.1",
+  "scripts": {
+    "dev":"gulp watch",
+    "gulp-scss":"gulp scss"
+  },
+  "dependencies": {
+    "gulp":"^3.9.1",
+    "gulp-sass":"^3.1.0",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-htmlmin":"^3.0.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-changed": "^3.1.0",
+    "amfe-flexible":"^2.2.1",
+    "gulp-px2rem":"^1.0.11"
+  }
+}
